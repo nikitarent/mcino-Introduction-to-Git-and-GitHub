@@ -14,3 +14,11 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+## Usage
+
+Run the script and enter the principal, rate and time when prompted:
+
+```bash
+bash simple-interest.sh
+```
